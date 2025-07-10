@@ -1,1 +1,1 @@
-# python temel
+# python temel projesi
