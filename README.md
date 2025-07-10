@@ -7,7 +7,7 @@ def flatten(lst):
         else:
             result.append(item)           
     return result
-  print(flatten([[1, 'a', ['cat'], 2], [[[3]], 'dog'], 4, 5]))
+print(flatten([[1, 'a', ['cat'], 2], [[[3]], 'dog'], 4, 5]))
 
 
   def reverse_deep(lst):
@@ -19,4 +19,4 @@ def flatten(lst):
             result.append(item)
     return result
 
-  print(reverse_deep([[1, 2], [3, 4], [5, 6, 7]]))
+print(reverse_deep([[1, 2], [3, 4], [5, 6, 7]]))
