@@ -9,6 +9,10 @@ def flatten(lst):
     return result
 
 
+
+
+
+
 def reverse_deep(lst):
     result = []
     for item in reversed(lst):
@@ -17,6 +21,8 @@ def reverse_deep(lst):
         else:
             result.append(item)
     return result
+
+
 
 
 if __name__ == "__main__":
