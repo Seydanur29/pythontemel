@@ -1,1 +1,1 @@
-# python temel projesi
+# Python Temel Projesi
